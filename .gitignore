@@ -1,5 +1,5 @@
-# ignore .log files
-*.log
-
-# ignore temp files
-temp/
+.idea
+**/themes/
+exampleSite/public/
+exampleSite/resources/
+*.lock
