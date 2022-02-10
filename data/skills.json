@@ -1,0 +1,9 @@
+[
+  {
+      "grouping":"Architecture",
+      "skills":[ "IP Networking","DNS","Firewalls","System Administration","Powershell","IaaS","Office365"]
+  },{
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Powershell","Python","git","Windows","Linux","MacOS"]
+  }
+]

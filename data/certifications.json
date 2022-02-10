@@ -1,0 +1,49 @@
+[
+	{
+		"name":"Network+",
+		"description": "CompTIA Network+ ce Certification",
+		"badge":"https://images.credly.com/size/340x340/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png",
+		"proof":"https://www.credly.com/badges/742fcdad-6f53-4e50-bdce-794b8931b5d0/public_url"
+
+	},
+	{
+		"name":"Security+",
+		"description": "CompTIA Security+ ce Certification",
+		"badge":"https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png",
+		"proof":"https://www.credly.com/badges/c0c89b43-258c-439d-bf26-6e0565159189/public_url"
+
+	},
+	{
+		"name":"Comptia Project+",
+		"description": "CompTIA Project+ Certification",
+		"badge":"https://images.credly.com/size/340x340/images/be6dfc3d-f8a1-4c18-8b16-751600ef61c8/CompTIA_Project_2B.png",
+		"proof":"https://www.certmetrics.com/atlassian/public/badge.aspx?i=26&t=c&d=2020-08-07&ci=AT00143196"
+		
+	},
+	{
+		"name":"Comptia Cloud Essentials+",
+		"description": "CompTIA Cloud Essentials+ Certification",
+		"badge":"https://images.credly.com/size/340x340/images/b1d518ce-7a42-4948-ac0b-a4a341aff1af/Cloud_Essentials__Certified_Logo_color_15MAY19.png",
+		"proof":"https://www.credly.com/badges/e678c0fd-ca39-45a7-aebb-ad4947ff1eb7/public_url"
+		
+	},
+	{
+		"name":"ITILv4 Foundations - Certificate number: GR750449231JD",
+		"badge":"https://images.credly.com/images/3796023f-61f7-4b7d-95e5-f24156d2b0fc/Org_AXELOS.png"
+			
+	},
+	{
+		"name":"CIW Advanced HTML5 and CSS3 Specialist",
+		"description": "CIW Advanced HTML5 and CSS3 Specialist",
+		"badge":"https://pixus-ecommerce-setup.s3.eu-west-2.amazonaws.com/distancelearningcentre-images/wysiwyg/Adv-HTML5---CSS3.png",
+		"proof":"https://cp.certmetrics.com/ciwcerts/en/public/transcript/c672e9dd219243b98ad3dd4bf4cef992"
+		
+	},
+	{
+		"name":"CIW User Interface Designer",
+		"description": "CIW User Interface Designer",
+		"badge":"https://vitspro.co.uk/storage/2018/06/CIW-User-Interface-Designer.jpg",
+		"proof":"https://cp.certmetrics.com/ciwcerts/en/public/transcript/c672e9dd219243b98ad3dd4bf4cef992"
+		
+	}
+]
