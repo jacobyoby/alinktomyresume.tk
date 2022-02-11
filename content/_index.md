@@ -9,4 +9,8 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+
+Progressive IT Leader | Cyberdefense Enthusiast
+
+
+A highly seasoned Information Technology professional who holds a Bachelor’s Degree in Information Technology, with 10+ years of experience in the technology sector, including leadership positions.
