@@ -1,21 +1,44 @@
 [
     {
         "role":"Network and System Administrator",
-        "company":"Tacoma Public Library",
-        "summary":"test",
-        "body":"test",
-        "range":"February 2016 - Present"
+        "company":"Tacoma Public Library, Tacoma, WA",
+        "summary":"-Responsible for hardware infrastructure, system administration, endpoint security, and equipment for 8 library branches   \r\n -Led the project to overhaul the library\u2019s systems setup, including P2V migrations, optimizing system performance, installing upgrades, establishing system  monitoring, and maintaining security protocols of the City of Tacoma \r \n -Provide the team expert suggestions and participate in technology reviews, products evaluations, and RFPs  \r \n -Migrated library staff from on premises open-source email system to Office 365\r\n-Handled disaster recovery and data restoration for critical services \r \n-Guide technical execution to meet sprint goals, participating in all phases of software development life cycle including the design, development, testing, and maintenance\r\n",
+        "range":"01.2019 - Today"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"IT Infrastructure Engineer",
+        "company":"Sound Mental Health, Tukwila, WA",
+        "summary":"-Responsible for hardware infrastructure, system administration, endpoint security, and equipment for 8 library branches \r\n-Led the project to overhaul the library\u2019s systems setup, including P2V migrations, optimizing system performance, installing upgrades\/patches, establishing system monitoring, and maintaining security protocols of the City of Tacoma\r\n-Provide the team expert suggestions and participate in technology reviews, products evaluations, and RFPs  \r\n-Migrated library staff from on premises open-source email system to Office 365\r\n-Handled disaster recovery and data restoration for critical services \r\n-Guide technical execution to meet sprint goals, participating in all phases of software development life cycle including the design, development, testing, and maintenance\r\n",
+        "range":"05.2018 - 11.2019"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Senior Technical Support Specialist",
+        "company":"Western Peterbilt, Seattle, WA",
+        "summary":"-Championed both vendor and product selection for implementation of new inventory and ticketing systems, resulting in the implementation of SLAs for tickets\r\n-Established positive vendor relations to effectively negotiate equipment and software purchases\r\n-Pioneered integration of multiples new stores facilitating a 25% increase in users and endpoints\r\n-Instructed and trained new help desk staff, and created standardized processes for daily tasks to increase efficiency\r\n-Implemented software updates, knowledge bases, and a frequently asked questions resource on the internet to aid in customer technical problem resolution\r\n-Research market trends to determine optimal software and hardware to support the needs of the organization\r\n",
+        "range":"01.2017 - 05.2018"
+    },
+    {
+        "role":"Network Operation Center Analyst",
+        "company":"ISOfusion, Tacoma, WA",
+        "summary":"-Delivered comprehensive technical support, advice, and help to consumers and businesses with technical, hardware, and software system issues\r\n-Headed troubleshooting functions for Cisco, Avaya, Nix, and Windows systems and networking equipment\r\n-Trained new employees regarding job duties and responsibilities, and managed shift tasks for the incoming team\r\n-Performed first-level core troubleshooting on software system problems and delivered accurate technical solutions\r\n",
+        "range":"05.2016 - 12.2016"
+    },
+    {
+        "role":"Technical Support and Customer Service Supervisor",
+        "company":"Xerox Inc., Lacey, WA",
+        "summary":"-Fostered and maintained rapport with clients, staff, and administrators to achieve technical solutions\r\n-Earned reputation as an invaluable employee by being honest and willing to go the extra mile to provide quality service\r\n-Enabled customer satisfaction, resulting in unsolicited customer feedback and repeated referral business\r\n-Managed customer service agents, which included recruiting, hiring, training, and terminating\r\n-Resolved complaints and order issues, including addressing escalated incidents that could not be resolved by agents\r\n-Coached and trained agents on proper methods to address customer problems over the phone\r\n",
+        "range":"11.2012 - 09.2015"
+    },
+    {
+        "role":"Fire Support Systems Specialist ",
+        "company":"United States Army, Joint Base Lewis Mcchord, WA",
+        "summary":"-Aided the Fire Support Sergeant in training of subordinates in fire support procedures, techniques, and tactics \r\n-Commanded and supervised sections of operations, maintenance, and training\r\n-Led and trained a forward observer team and instructed infantry soldiers on execution of fire support maneuvers\r\n-Controlled and coordinated military rocket, mortar and missile systems\r\n",
+        "range":"05.2010 - 11.2012"
+    },
+    {
+        "role":"IT Support Technician",
+        "company":"Ashley Furniture, Paramus, NJ",
+        "summary":"-Supplied comprehensive technical and problem resolution support for the company computer and communications systems, for both internal and external customers\r\n-Reinforced the company computer security policy and performed support procedures\r\n-Optimized operations of the company computer support procedures and other departmental policies and processes\r\n",
+        "range":"01.2008 - 03.2010"
     }
 ]
