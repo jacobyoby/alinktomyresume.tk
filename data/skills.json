@@ -1,9 +1,9 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","System Administration","Powershell","IaaS","Office365"]
+      "skills":[ "IP Networking","DNS","Firewalls","System Administration","Powershell","IaaS","ITIL","Project Management","Virtualization","P2V Migrations", "Mergers", "IAM", "Active Directory", "Routing and Switching" ]
   },{
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Powershell","Python","git","Windows","Linux","MacOS"]
+      "skills":[ "Powershell","Office365", "Exchange", "Python","git","Windows","Linux","MacOS","Cisco", "Meraki","Mitel", "Hyper-V", "VMWare", "AWS", "Azure", "Azure AD", "Okta", "JAMF", "SonicWALL" ]
   }
 ]
